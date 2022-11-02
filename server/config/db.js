@@ -1,3 +1,9 @@
+//author: Azin Katiraee
+//student ID: 301251029
+//file name: db.js
+//midterm: favourite book list
+
+
 const username = "aizakat ";
     const password = "PENl2IqnVhbCUYo9";
     const cluster = "Cluster1";

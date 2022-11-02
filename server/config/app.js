@@ -1,5 +1,11 @@
+//author: Azin Katiraee
+//student ID: 301251029
+//file name: app.js
+//midterm: favourite book list
 
 // moddules for node and express
+
+
 let createError = require('http-errors');
 let express = require('express');
 let path = require('path');

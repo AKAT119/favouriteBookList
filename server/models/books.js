@@ -1,3 +1,9 @@
+//author: Azin Katiraee
+//student ID: 301251029
+//file name: books.js
+//midterm: favourite book list
+
+
 let mongoose = require('mongoose');
 
 // create a model class
