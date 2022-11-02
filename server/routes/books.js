@@ -56,7 +56,7 @@ book.create(books,(err, book) => {
 });
 
 // GET the Book Details page in order to edit an existing Book
-router.get('edit/:id', (req, res, next) => {
+router.get('/edit/:id', (req, res, next) => {
 
     /*****************
      * ADD CODE HERE *
